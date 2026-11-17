@@ -1,0 +1,8 @@
+Hello.class/
+
+.env
+**/.env
+target/
+*.class
+.idea/
+.vscode/
