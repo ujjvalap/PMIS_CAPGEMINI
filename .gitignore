@@ -1,8 +1,19 @@
-Hello.class/
-
+# Environment variables
 .env
 **/.env
-target/
+*.env
+
+# Java
 *.class
+target/
+
+# IDE
 .idea/
 .vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
